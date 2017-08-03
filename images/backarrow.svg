@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>backarrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="iOS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Announcement-w/-Keyboard" transform="translate(-19.000000, -417.000000)" stroke="#212121" stroke-width="2">
+            <g id="Group" transform="translate(29.000000, 424.000000) rotate(-90.000000) translate(-29.000000, -424.000000) translate(23.000000, 415.000000)">
+                <path d="M6,0 L6,17.5" id="Line"></path>
+                <path d="M6,0 L0,6.13333333" id="Line"></path>
+                <path d="M12,0 L6,6.13333333" id="Line" transform="translate(9.000000, 3.066667) scale(-1, 1) translate(-9.000000, -3.066667) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

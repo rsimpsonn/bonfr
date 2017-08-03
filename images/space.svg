@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="auto" height="485px" viewBox="0 0 387 398" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Student-Facing - Announcements</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Student-Facing---Announcements" transform="translate(-88.000000, -636.000000)">
+            <g id="Group-8" transform="translate(268.500000, 669.000000) rotate(90.000000) translate(-268.500000, -669.000000) translate(252.500000, 629.500000)">
+                <text id="🔥" transform="translate(16.500000, 64.500000) scale(1, -1) translate(-16.500000, -64.500000) " font-family="AppleColorEmoji, Apple Color Emoji" font-size="20" font-weight="normal" fill="#BDBDBD">
+                    <tspan x="5" y="72">🔥</tspan>
+                </text>
+                <g id="Group-5">
+                    <path d="M16,52 C9.68817429,52 4.57142857,40.3594035 4.57142857,26 C4.57142857,16.4270643 8.38095238,7.76039767 16,0 C23.6190476,7.76039767 27.4285714,16.4270643 27.4285714,26 C27.4285714,40.3594035 22.3118257,52 16,52 Z M16.2539683,21.5 C19.0592241,21.5 21.3333333,19.2614237 21.3333333,16.5 C21.3333333,13.7385763 19.0592241,11.5 16.2539683,11.5 C13.4487124,11.5 11.1746032,13.7385763 11.1746032,16.5 C11.1746032,19.2614237 13.4487124,21.5 16.2539683,21.5 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                    <polygon id="Path-5" fill="#6D71D7" points="5.07936508 24.5 0 55 10.1587302 48.3695652"></polygon>
+                    <polygon id="Path-5" fill="#6D71D7" transform="translate(26.920635, 39.750000) scale(-1, 1) translate(-26.920635, -39.750000) " points="26.9206349 24.5 21.8412698 55 32 48.3695652"></polygon>
+                </g>
+            </g>
+            <g id="Group-9" opacity="0.6" transform="translate(149.000000, 703.000000)">
+                <circle id="Oval-3" fill="#FFFFFF" cx="124" cy="124" r="5"></circle>
+                <circle id="Oval-3" fill="#FFFFFF" cx="52" cy="54" r="5"></circle>
+                <circle id="Oval-3" fill="#FFFFFF" cx="124" cy="25" r="5"></circle>
+                <circle id="Oval-3" fill="#FFFFFF" cx="195" cy="54" r="5"></circle>
+                <circle id="Oval-3" fill="#FFFFFF" cx="226" cy="126" r="5"></circle>
+                <circle id="Oval-3" fill="#FFFFFF" cx="195" cy="197" r="5"></circle>
+                <circle id="Oval-3" fill="#FFFFFF" cx="124" cy="225" r="5"></circle>
+                <circle id="Oval-3" fill="#FFFFFF" cx="52" cy="197" r="5"></circle>
+                <circle id="Oval-3" fill="#FFFFFF" cx="23" cy="125" r="5"></circle>
+                <rect id="Rectangle-11" stroke="#FFFFFF" stroke-width="2" x="98" y="1" width="51" height="246" rx="25.5"></rect>
+                <rect id="Rectangle-11" stroke="#FFFFFF" stroke-width="2" transform="translate(124.500000, 124.000000) rotate(45.000000) translate(-124.500000, -124.000000) " x="99" y="1" width="51" height="246" rx="25.5"></rect>
+                <rect id="Rectangle-11" stroke="#FFFFFF" stroke-width="2" transform="translate(124.500000, 125.000000) rotate(90.000000) translate(-124.500000, -125.000000) " x="99" y="2" width="51" height="246" rx="25.5"></rect>
+                <rect id="Rectangle-11" stroke="#FFFFFF" stroke-width="2" transform="translate(124.500000, 126.000000) rotate(135.000000) translate(-124.500000, -126.000000) " x="99" y="3" width="51" height="246" rx="25.5"></rect>
+                <path d="M124,26.5 L124,225.5" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M194.357125,54.6428753 L53.6428753,195.357125" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M53.6428753,55.6428753 L194.357125,196.357125" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M24.5,125 L223.5,125" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            </g>
+            <g id="Group" transform="translate(268.000000, 994.500000) rotate(270.000000) translate(-268.000000, -994.500000) translate(238.500000, 973.500000)">
+                <ellipse id="Oval-5" fill="#6D71D7" cx="29" cy="31.5" rx="14" ry="10.5"></ellipse>
+                <path d="M29.5,38 C13.2075999,38 0,33.2989899 0,27.5 C0,21.7010101 13.2075999,17 29.5,17 C45.7924001,17 59,21.7010101 59,27.5 C59,33.2989899 45.7924001,38 29.5,38 Z M8.5,30 C9.88071187,30 11,28.8807119 11,27.5 C11,26.1192881 9.88071187,25 8.5,25 C7.11928813,25 6,26.1192881 6,27.5 C6,28.8807119 7.11928813,30 8.5,30 Z M21.5,34 C22.8807119,34 24,32.8807119 24,31.5 C24,30.1192881 22.8807119,29 21.5,29 C20.1192881,29 19,30.1192881 19,31.5 C19,32.8807119 20.1192881,34 21.5,34 Z M37.5,34 C38.8807119,34 40,32.8807119 40,31.5 C40,30.1192881 38.8807119,29 37.5,29 C36.1192881,29 35,30.1192881 35,31.5 C35,32.8807119 36.1192881,34 37.5,34 Z M50.5,30 C51.8807119,30 53,28.8807119 53,27.5 C53,26.1192881 51.8807119,25 50.5,25 C49.1192881,25 48,26.1192881 48,27.5 C48,28.8807119 49.1192881,30 50.5,30 Z" id="Combined-Shape" fill="#B8E986"></path>
+                <path d="M46,24.5 C46,15.3873016 38.6126984,8 29.5,8 C20.3873016,8 13,15.3873016 13,24.5 C17.6666667,25.5 23.1666667,26 29.5,26 C35.8333333,26 41.3333333,25.5 46,24.5 Z" id="Oval-9" fill="#FFFFFF"></path>
+                <text id="👽" font-family="AppleColorEmoji, Apple Color Emoji" font-size="20" font-weight="normal" fill="#BDBDBD">
+                    <tspan x="18" y="22.875">👽</tspan>
+                </text>
+            </g>
+            <g id="Group-3" transform="translate(446.000000, 835.000000) scale(1, -1) translate(-446.000000, -835.000000) translate(417.000000, 800.000000)">
+                <g id="Group-2">
+                    <path d="M57.0074881,13.86828 C57.0074881,10.2935602 54.0982678,7.39567727 50.5095627,7.39567727 C46.9208577,7.39567727 44.0116374,10.2935602 44.0116374,13.86828" id="Oval-11" fill="#E5E5E5" transform="translate(50.509563, 10.631979) rotate(-4.000000) translate(-50.509563, -10.631979) "></path>
+                    <g id="Group-4" fill="#FFFFFF">
+                        <path d="M16.3651452,0 L22.1410788,0 L22.1410788,16.5410959 C23.6177591,16.3812785 24.7408573,16.3013699 25.5103734,16.3013699 C26.2798896,16.3013699 27.4029878,16.3812785 28.879668,16.5410959 L28.6390041,0 L34.1742739,0 L44.7634855,20.1369863 L44.7634855,16.5410959 L57.2780083,15.8219178 L58,29.4863014 L49.5767635,38.1164384 L49.5767635,48.9041096 L52.7053942,52.260274 C49.3360996,64.0598669 40.4315353,69.8932002 25.9917012,69.760274 C11.5518672,69.6273477 2.96818811,64.1935578 0.2406639,53.4589041 L4.09128631,49.8630137 L3.85062241,39.0753425 L0,34.760274 L16.3651452,0 Z M25.7510373,47.4657534 C30.8018074,47.4657534 34.8962656,43.3872515 34.8962656,38.3561644 C34.8962656,33.3250773 30.8018074,29.2465753 25.7510373,29.2465753 C20.7002673,29.2465753 16.6058091,33.3250773 16.6058091,38.3561644 C16.6058091,43.3872515 20.7002673,47.4657534 25.7510373,47.4657534 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+                <path d="M4.22916667,55.042735 C4.22916667,62.1469107 14.1022207,67.9059829 26.28125,67.9059829 L26.28125,67.9059829 C38.4602793,67.9059829 48.3333333,62.1469107 48.3333333,55.042735" id="Oval-13" stroke="#D75D5D" stroke-width="1.7" stroke-dasharray="2.4"></path>
+                <path d="M23,60 L31,60" id="Oval-13" stroke="#D75D5D" stroke-width="4.69999981" stroke-dasharray="1"></path>
+                <path d="M2.41666667,34.1025641 L17.5208333,1.79487179" id="Line" stroke="#D75D5D" stroke-width="1.7" stroke-linecap="square" stroke-dasharray="2.4"></path>
+                <path d="M33.2291667,20.9401709 L42.8958333,1.79487179" id="Line" stroke="#D75D5D" stroke-width="1.7" stroke-linecap="square" stroke-dasharray="2.4" transform="translate(38.062500, 11.367521) scale(-1, 1) translate(-38.062500, -11.367521) "></path>
+            </g>
+            <text id="🐻👦🏻" transform="translate(444.000000, 831.500000) scale(1, -1) translate(-444.000000, -831.500000) " font-family="AppleColorEmoji, Apple Color Emoji" font-size="20" font-weight="normal" fill="#BDBDBD">
+                <tspan x="421" y="839">🐻👦🏻</tspan>
+            </text>
+            <path d="M438,850 C439.333333,850.666667 440.833333,851 442.5,851 C444.166667,851 445.666667,850.666667 447,850" id="Line" stroke="#D75D5D" stroke-width="1.7" stroke-linecap="square"></path>
+            <g id="Group-7" transform="translate(88.500000, 782.000000)">
+                <g id="Group-6">
+                    <path d="M23.5,0 C10.5213084,0 0,10.4466892 0,23.3333333 C0,31.9244294 7.83333333,42.0953696 23.5,53.8461538 L23.5,53.8461538" id="Oval-14" fill="#FF6969"></path>
+                    <path d="M47,0 C34.0213084,0 23.5,10.4466892 23.5,23.3333333 C23.5,31.9244294 31.3333333,42.0953696 47,53.8461538 L47,53.8461538" id="Oval-14" fill="#6D71D7" transform="translate(35.250000, 26.923077) scale(-1, 1) translate(-35.250000, -26.923077) "></path>
+                    <path d="M23.5017372,53.8495225 C32.1313215,42.0987383 36.4461136,31.9277981 36.4461136,23.336702 C36.4461136,10.4500578 30.6507189,0.00336867112 23.5017372,0.00336867112 C16.3527556,0.00336867112 10.5573609,10.4500578 10.5573609,23.336702 C10.5573609,31.9277981 14.872153,42.0987383 23.5017372,53.8495225 Z" id="Oval-14" fill="#F8E81C"></path>
+                    <path d="M18.0727396,71.9230769 L29.2964768,71.9230769 L29.2964768,71.9230769 C30.2905894,71.9230769 31.0964768,72.7289644 31.0964768,73.7230769 C31.0964768,73.9356944 31.0588073,74.1466305 30.9852146,74.3461056 L29.3335363,78.8230287 L29.3335363,78.8230287 C29.0726143,79.5302653 28.3986313,80 27.6447985,80 L19.724418,80 L19.724418,80 C18.9705852,80 18.2966021,79.5302653 18.0356802,78.8230287 L16.3840018,74.3461056 L16.3840018,74.3461056 C16.0399126,73.4134415 16.5170468,72.3784284 17.4497109,72.0343392 C17.649186,71.9607465 17.8601221,71.9230769 18.0727396,71.9230769 Z" id="Rectangle-12" fill="#E0A979"></path>
+                </g>
+                <text id="🐵" font-family="AppleColorEmoji, Apple Color Emoji" font-size="20" font-weight="normal" fill="#BDBDBD">
+                    <tspan x="13" y="74">🐵</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

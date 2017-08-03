@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="auto" height="35px" viewBox="0 0 844 221" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-14.000000, -11.000000)">
+            <rect id="Rectangle-7" fill="#89FFE4" x="14" y="12" width="34" height="221"></rect>
+            <circle id="Oval-3" stroke="#3894FF" stroke-width="34" opacity="0.5" cx="84" cy="162" r="53"></circle>
+            <circle id="Oval-3" stroke="#FFE800" stroke-width="34" cx="235" cy="162" r="53"></circle>
+            <path d="M352,232.041044 L352,162.5 C352,142.341607 368.341607,126 388.5,126 C408.658393,126 425,142.341607 425,162.5 L425,232 L459,232 L459,162.5 C459,123.563925 427.436075,92 388.5,92 C349.563925,92 318,123.563925 318,162.5 L318,232.054086 L352,232.041044 Z M352,162.5 C352,142.341607 368.341607,126 388.5,126 C408.658393,126 425,142.341607 425,162.5 L425,232 L459,232 L459,162.5 C459,123.563925 427.436075,92 388.5,92 C349.563925,92 318,123.563925 318,162.5 L318,232.054086 L352,232.041044 L352,162.5 Z" id="Rectangle-8" fill="#FF7070" fill-rule="nonzero"></path>
+            <path d="" id="Rectangle-8" stroke="#FF8E8E" stroke-width="40"></path>
+            <g id="Group-2" transform="translate(472.000000, 29.000000)">
+                <rect id="Rectangle" fill="#FFE800" x="0" y="63" width="64" height="34"></rect>
+                <path d="M31,203 L31,27 C31,12.0883118 42.1928813,3.55271368e-15 56,0" id="Rectangle-9" stroke="#3894FF" stroke-width="34" opacity="0.5"></path>
+            </g>
+            <rect id="Rectangle-10" fill="#F6A023" x="554" y="92" width="34" height="140"></rect>
+            <g id="Group-3" transform="translate(602.000000, 92.000000)" fill-rule="nonzero" fill="#FF7070">
+                <path d="M35,140 L35,58 C35,44.745166 45.745166,34 59,34 C67.9091657,34 75.9300751,38.8714939 80.1189608,46.5753726 L109.988948,30.3339483 C100.164041,12.2647301 81.0143113,0 59,0 C26.9674845,0 1,25.9674845 1,58 L1,140 L35,140 Z" id="Rectangle-11"></path>
+            </g>
+            <g id="Group" transform="translate(713.988948, 89.000000)">
+                <rect id="Rectangle" fill="#FFE800" transform="translate(73.437634, 72.773882) rotate(-16.000000) translate(-73.437634, -72.773882) " x="2.93763403" y="55.7738824" width="141" height="34"></rect>
+                <path d="M125.501007,82.9717289 C125.981489,80.4478902 126.283,77.8606149 126.391833,75.2236094 C126.422267,74.4861952 126.437634,73.7448922 126.437634,73 C126.437634,43.7289083 102.708726,20 73.437634,20 C44.1665423,20 20.437634,43.7289083 20.437634,73 C20.437634,102.271092 44.1665423,126 73.437634,126 L73.437634,126 C92.7556862,126 109.65978,115.664617 118.922011,100.221756" id="Oval-3" stroke="#13FFCB" stroke-width="34" opacity="0.5"></path>
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="7" cx="73.5" cy="73.5" r="73.5"></circle>
+                <polygon id="Path-4" fill="#FFFFFF" points="99 83 101 90 147 107 149 69"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

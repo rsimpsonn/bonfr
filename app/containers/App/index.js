@@ -1,28 +1,63 @@
-/**
- *
- * App.react.js
- *
- * This component is the skeleton around the actual pages, and should only
- * contain code that should be seen on all pages. (e.g. navigation bar)
- *
- * NOTE: while this component should technically be a stateless functional
- * component (SFC), hot reloading does not currently support SFCs. If hot
- * reloading is not a necessity for you then you can refactor it and remove
- * the linting exception.
- */
+import React, { Component } from 'react';
+import Cookies from 'js-cookie';
+import Header from '../Header';
+import LoginForm from '../../components/LoginForm';
+import SignUp from '../../containers/SignUp';
 
-import React from 'react';
+export default class App extends Component {
+  constructor(props) {
+    super(props);
 
-export default class App extends React.PureComponent { // eslint-disable-line react/prefer-stateless-function
+    this.state = {
+      loggedIn: Cookies.get('token'),
+      signUp: Cookies.get('signup'),
+    };
 
+    this.handleLogin = this.handleLogin.bind(this);
+    this.signUp = this.signUp.bind(this);
+    this.signUpdate = this.signUpdate.bind(this);
+  }
   static propTypes = {
     children: React.PropTypes.node,
   };
 
+  handleLogin() {
+    this.setState({
+      loggedIn: Cookies.get('token'),
+    });
+  }
+
+  signUp() {
+    Cookies.set('signup', 'true');
+    this.setState({
+      signUp: Cookies.get('signup'),
+    });
+  }
+
+  signUpdate() {
+    Cookies.remove('signup');
+    this.setState({
+      signUp: Cookies.get('signup'),
+      loggedIn: Cookies.get('token'),
+    });
+  }
+
   render() {
     return (
       <div>
-        {React.Children.toArray(this.props.children)}
+        {this.state.loggedIn &&
+          <div>
+            <Header logout={this.handleLogin} />
+            <div className="content">
+              {this.props.children}
+            </div>
+          </div>}
+        {this.state.signUp && <SignUp signUp={this.signUpdate} />}
+        {!this.state.loggedIn &&
+          !this.state.signUp &&
+          <div>
+            <LoginForm onLogin={this.handleLogin} signUp={this.signUp} />
+          </div>}
       </div>
     );
   }

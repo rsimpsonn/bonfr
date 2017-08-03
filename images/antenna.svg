@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="10px" height="73px" viewBox="0 0 10 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>antenna</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-246.000000, -390.000000)" fill="#D02118">
+            <g id="Group-3" transform="translate(89.000000, 388.000000)">
+                <g id="Group-2" transform="translate(152.495902, 0.000000)">
+                    <path d="M9.60655738,2.64 L14.4098361,74.64 L4.80327869,74.64 C6.40437158,32.24 6.80464481,9.44 6.00409836,6.24 C5.20355191,3.04 6.40437158,1.84 9.60655738,2.64 Z" id="antenna"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
